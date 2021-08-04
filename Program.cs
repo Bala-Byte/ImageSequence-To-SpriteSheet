@@ -14,7 +14,6 @@ namespace SpriteSheetGenerator
 			string imageFolderLocation;
 			imageFolderLocation = Console.ReadLine();
 
-
 			if (Directory.Exists(imageFolderLocation))
 			{
 				// TODO: Arrays be faster?
@@ -31,6 +30,7 @@ namespace SpriteSheetGenerator
 					Environment.Exit(0);
 				}
 
+				// Reading files into LIST imageList
 				foreach (string fileLocation in containedFiles)
 				{
 					Console.WriteLine(fileLocation);
