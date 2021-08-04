@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpriteSheetGenerator", "SpriteSheetGenerator.csproj", "{D7BC5AE4-3924-4EB8-AE84-02283E539D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7BC5AE4-3924-4EB8-AE84-02283E539D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7BC5AE4-3924-4EB8-AE84-02283E539D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7BC5AE4-3924-4EB8-AE84-02283E539D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7BC5AE4-3924-4EB8-AE84-02283E539D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991C91C8-246B-4737-A3D1-FB0AAB66D7E8}
+	EndGlobalSection
+EndGlobal
