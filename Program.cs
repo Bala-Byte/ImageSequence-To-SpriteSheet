@@ -11,7 +11,6 @@ namespace SpriteSheetGenerator
 		{
 			Console.WriteLine("Please insert the folder location contaning the images:");
 
-			// C:\Users\Balázs\Documents\C#\ImageSequence-To-SpriteSheet\imageFolder
 			string imageFolderLocation;
 			imageFolderLocation = Console.ReadLine();
 
